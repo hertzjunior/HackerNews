@@ -25,4 +25,4 @@ RESTful API to retrieve the details of the first 20 "best stories" from the Hack
 
 ## Future Enhancements
 
-1- Distributed cache using Redis
+1. Distributed cache using Redis;
